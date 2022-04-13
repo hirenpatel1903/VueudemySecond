@@ -49,6 +49,13 @@ header {
     border-radius: 25px;
 }
 
+#user-goal h2 {
+    font-size: 2rem;
+    border: 1px solid #4fc08d;
+    color: white;
+    margin: 0 0 1rem 0;
+}
+
 #user-goal input {
     font: inherit;
     border: 1px solid #ccc;
